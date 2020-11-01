@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d2c402f-e30c-4a0e-9068-3c7be7d8c0ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/poem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/io.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/mod.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="7m24d1o5" />
+  </component>
+  <component name="ProjectId" id="1jKMgQzU5PKNz9jxEtBKz9Ew0eX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Cargo.Run minigrep">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run minigrep" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package minigrep --bin minigrep" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test tests::case_sensitive" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package minigrep --lib tests::case_sensitive -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test tests::one_result" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package minigrep --lib tests::one_result -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test tests::p" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package minigrep --lib tests::p -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run d d " />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cargo.run" />
+      <item itemvalue="Cargo.Run minigrep" />
+      <item itemvalue="Cargo.Test tests::one_result" />
+      <item itemvalue="Cargo.Test tests::p" />
+      <item itemvalue="Cargo.Test tests::case_sensitive" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run minigrep" />
+        <item itemvalue="Cargo.Test tests::case_sensitive" />
+        <item itemvalue="Cargo.Test tests::p" />
+        <item itemvalue="Cargo.Test tests::one_result" />
+        <item itemvalue="Cargo.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d2c402f-e30c-4a0e-9068-3c7be7d8c0ae" name="Default Changelist" comment="" />
+      <created>1603548440542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603548440542</updated>
+      <workItem from="1603548441653" duration="12253000" />
+      <workItem from="1603810586333" duration="13112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1374" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603550217327">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1374" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1603550217327" />
+    <state width="1234" height="469" key="GridCell.Tab.0.bottom" timestamp="1604238386841">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="469" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604238386841" />
+    <state width="1234" height="469" key="GridCell.Tab.0.center" timestamp="1604238386841">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="469" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604238386841" />
+    <state width="1234" height="469" key="GridCell.Tab.0.left" timestamp="1604238386841">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="469" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604238386841" />
+    <state width="1234" height="469" key="GridCell.Tab.0.right" timestamp="1604238386841">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="469" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604238386841" />
+    <state width="1248" height="612" key="GridCell.Tab.1.bottom" timestamp="1604145398114">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1248" height="612" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604145398114" />
+    <state width="1248" height="612" key="GridCell.Tab.1.center" timestamp="1604145398114">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1248" height="612" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604145398114" />
+    <state width="1248" height="612" key="GridCell.Tab.1.left" timestamp="1604145398114">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1248" height="612" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604145398114" />
+    <state width="1248" height="612" key="GridCell.Tab.1.right" timestamp="1604145398114">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1248" height="612" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604145398114" />
+    <state x="1416" y="348" key="SettingsEditor" timestamp="1603553363808">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1416" y="348" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1603553363808" />
+    <state x="1626" y="407" width="587" height="592" key="find.popup" timestamp="1603635301106">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1626" y="407" width="587" height="592" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1603635301106" />
+    <state x="1556" y="433" width="700" height="530" key="recent.locations.popup" timestamp="1603553584925">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1556" y="433" width="700" height="530" key="recent.locations.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1603553584925" />
+  </component>
+</project>
